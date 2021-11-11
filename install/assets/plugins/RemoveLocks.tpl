@@ -10,8 +10,8 @@
  * @internal    @events OnWebPagePrerender,
  * @internal    @modx_category Manager and Admin
  * @internal    @installset base
- * @reportissues https://github.com/evolution-cms/evolution/issues/
- * @author      hansek from http://www.modxcms.cz
+ * @reportissues https://github.com/BBloke/RemoveLocks/issues/
+ * @author      BBloke
  * @lastupdate  11-11-2021
  */
 
